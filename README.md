@@ -1,6 +1,12 @@
 # omg
 
-OMG, open this f***ing thing already!
+OMG, open this f\*\*\*ing thing already!
+
+## Installation
+
+```sh
+> npm i omg-cli -g
+```
 
 ## Usage
 
@@ -12,7 +18,7 @@ Open my god damn resource
 1 - yahoo
 2 - some random folder
 
-> omg 0 
+> omg 0
 
 # Open google.com
 
