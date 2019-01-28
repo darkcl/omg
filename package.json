@@ -1,0 +1,13 @@
+{
+  "name": "omg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "omg": "./bin/omg.js"
+  },
+  "dependencies": {
+    "mac-open": "^0.1.3",
+    "opn": "^5.4.0"
+  }
+}
