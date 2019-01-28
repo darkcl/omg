@@ -42,7 +42,7 @@ if (args.length !== 0) {
     exec(`open ${opt[pId].path}`, (err, stdout, stderr) => {});
   }
 }else{
-  console.log('Open my godamn resource');
+  console.log('Open my god damn resource');
   if(opt.length !== 0){
     let idx = 0;
     opt.forEach(element => {
